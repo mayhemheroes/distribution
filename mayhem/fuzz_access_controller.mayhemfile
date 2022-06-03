@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_access_controller
+cmds:
+- cmd: /out/fuzz_access_controller
